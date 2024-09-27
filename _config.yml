@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junru Chen (陈俊儒)"
-description              : "Ph.D. student in Zhejiang University. Focusing on machine learning for healthcare, large-scale time series analysis and human-centered AI."
-repository               : "MrNobodyCali/MrNobodyCali.github.io"
+title                    : "Fanqi Shen (沈凡琦)"
+description              : "Master student in Zhejiang University. Focusing on brain-computer interfaces, large-scale time series analysis, human-centered artificial intelligence."
+repository               : "wajtsq/wajtsq.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junru Chen <br> (陈俊儒)"
+  name             : "Fanqi Shen <br>(沈凡琦)"
   avatar           : "images/myself.jpg"
   bio              : "Zhejiang University (ZJU)"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=wKgkgeMAAAAJ"
-  email            : "jrchen_cali@zju.edu.cn"
+  googlescholar    : 
+  email            : "fanqishen@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MrNobodyCali"
+  github           : "wajtsq"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "junru-chen-zju"
+  linkedin         : 
   dblp             : # "https://dblp.org/pid/212/6753"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
