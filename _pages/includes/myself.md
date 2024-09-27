@@ -1,13 +1,7 @@
 # 👽 Personal
-
-Born in the chilly embrace of January, I'm an Aquarius. 
-My MBTI says I'm an INFJ, but honestly, I'm just an ambivert with a sprinkle of everything. 
-I'm all about philosophy, psychology, and sociology, and I run a WeChat public account called `第N面墙`.
-Join me there for some mind-bending discussions.
-My dream is to wander the cosmos.
-And my current favorite quote: **Anxiety is the dizziness of freedom. - Soren Kierkegaard**.
-
-When it comes to sports, I jive with basketball, badminton, and hiking; 
-as for the arts, musicals, dramas, and impressionist art make my heart sing. 
-My all-time favorite movies? `Mr. Nobody` and `The Before Trilogy`. 
-I'm a fan of puzzle games such as the `Rusty Lake` series, and lately, I've been playing `Valorant`.
+I was born in December and I am a Sagittarius who is naturally in love with freedom.
+My MBTI is INTJ. I enjoy being alone and love traveling around the world.
+My favorite quote is: **我与我周旋久，宁作我**  —`世说新语`
+When it comes to sports, I like volleyball and hiking.
+In terms of literary and entertainment activities, I like watching plays, musicals, stand-up comedies, etc. In my spare time, I also dance and draw.
+I like playing scripted `murder mystery games` and watching detective variety shows.
