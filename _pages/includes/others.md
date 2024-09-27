@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
 - *2021-2022* and *2022-2023* First Prize Scholarship
 - *2021-2022* ZheJiang provincial government scholarship
