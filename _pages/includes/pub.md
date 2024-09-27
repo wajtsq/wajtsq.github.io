@@ -2,10 +2,8 @@
 
 ## Exploring foundation model for brain signals
 
-> In 2024, I joined the Brainnet group and participated in the research of large brain electrical models. Below is the roadmap of Brainnet group's research.
-
-> <img src='images/Roadmap.png' alt="sym" width="100%">
-
+> In 2024, I joined the Brainnet group and participated in the research of large brain electrical models. Below is the roadmap of Brainnet group's research.<br>
+> <img src='images/Roadmap.png' alt="sym" width="100%"><br>
 > Our goal is to establish a universal brain signal model to improve the performance of various downstream tasks in the healthcare field and provide a quantitative understanding of brain activity in human neuroscience.
 
 I am pleased to have contributed to [BrainWave](https://arxiv.org/abs/2402.10251), my first published research paper. This research introduces the first foundation model for both invasive and non-invasive neural recordings, composed of three main components: embedding layer, Transformer encoder and channel attention. This model will facilitate a wide range of clinical
