@@ -9,7 +9,7 @@ Our goal is to establish a universal brain signal model to improve the performan
 I am pleased to have contributed to [BrainWave](https://arxiv.org/abs/2402.10251), my first published research paper. This research introduces the first foundation model for both invasive and non-invasive neural recordings, composed of three main components: embedding layer, Transformer encoder and channel attention. This model will facilitate a wide range of clinical
 applications in medicine, paving the way for AI-driven approaches to investigate brain disorders and advance neuroscience research.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/BrainWave.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/BrainWave.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 BrainWave: A Brain Signal Foundation Model for Clinical Applications \\
