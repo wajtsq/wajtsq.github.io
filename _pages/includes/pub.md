@@ -2,12 +2,14 @@
 
 ## Exploring foundation model for brain signals
 
-> Since 2020, I have served as the team leader for the BrainNet group, working alongside Prof. Yang to initiate and develop the group's 
-research direction and roadmap from scratch. In my role as team leader, I have been deeply involved in shaping the ideas for each paper 
-among the group members. Simultaneously, I have provided assistance and guidance to the best of my ability in coding and writing. 
-Below is the roadmap of our group's research.
+> In 2024, I joined the Brainnet group and participated in the research of large brain electrical models. Below is the roadmap of our group's research.
 
-<p align="center"> <img src='../../images/Roadmap.png' alt="sym" width="78%"></p>
+Our goal is to establish a universal brain signal model to improve the performance of various downstream tasks in the healthcare field and provide a quantitative understanding of brain activity in human neuroscience.
+
+My first work is ([BrainWave](https://arxiv.org/abs/2402.10251)), the first foundation model for both invasive and non-invasive neural recordings, composed of three main components: embedding layer, Transformer encoder and channel attention. This model will facilitate a wide range of clinical
+applications in medicine, paving the way for AI-driven approaches to investigate brain disorders and advance neuroscience research.
+
+<!-- <p align="center"> <img src='../../images/Roadmap.png' alt="sym" width="78%"></p>
 
 We aim to establish a universal model for brain signals, enhancing performance in various downstream tasks within the healthcare domain 
 while empowering a quantitative understanding of brain activity in neuroscience for human.
@@ -150,4 +152,4 @@ blocked before being propogated to different downstream tasks.
 
 `AI Open` [Robustness of Deep Learning Models on Graphs: A Survey](https://galina0217.github.io/works/robust_survey.pdf)\\
 [Jiarong Xu](https://galina0217.github.io/), **Junru Chen**, Siqi You, Zhiqing Xiao, [Yang Yang](http://yangy.org/), [Jiangang Lu](https://person.zju.edu.cn/en/lujg)
- 
+  -->
