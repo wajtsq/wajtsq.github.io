@@ -3,7 +3,7 @@
 I graduated from Zhejiang University with a Bachelor's degree in Computer Science and Technology.-->
 # 🤓 **About me**
 
-I'm a fourth-year college student pursuing my software engineering degree in [Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/),  and I am about to pursue a master's degree at Zhejiang University under the guidance of Professor Prof. [Yang Yang](http://yangy.org/).
+I'm a fourth-year college student pursuing my software engineering degree in [Computer Science and Technology](http://www.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/),  and I am about to pursue a master's degree at Zhejiang University under the guidance of Prof. [Yang Yang](http://yangy.org/).
 
 My research interests include brain-computer interfaces, large-scale time series analysis, human-centered artificial intelligence, and any interesting topics or cutting-edge technologies.
 
