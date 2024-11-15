@@ -10,7 +10,7 @@ My research interests include brain-computer interfaces, large-scale time series
 <!-- I have published several papers  -->
 <!-- <a href=''><img src=""></a>
 at the top international AI conferences such as KDD, NeurIPS, AAAI. -->
-<!--  Here is my CV📋 (<a target="_blank"  href="_pages\includes\Personal_Profile.pdf">English version</a>/ -->
-<a target="_blank"  href="_pages\includes\Fanqi_CV_cn.pdf">Chinese version</a>).
+<!--  Here is my CV📋 (<a target="_blank"  href="_pages\includes\Personal_Profile.pdf">English version</a>/
+<a target="_blank"  href="_pages\includes\Fanqi_CV_cn.pdf">Chinese version</a>). -->
 
 *If you are seeking any form of academic cooperation, please feel free to touch me.*
