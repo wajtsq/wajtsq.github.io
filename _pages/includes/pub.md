@@ -13,7 +13,7 @@ applications in medicine, paving the way for AI-driven approaches to investigate
 <div class='paper-box-text' markdown="1">
 
 BrainWave: A Brain Signal Foundation Model for Clinical Applications \\
-Zhizhang Yuan, **Fanqi Shen**, Meng Li, Yuguo Yu, Chenhao Tan, [Yang Yang](http://yangy.org/)\\
+[Zhizhang Yuan](https://yzz673.github.io/), **Fanqi Shen**, Meng Li, Yuguo Yu, Chenhao Tan, [Yang Yang](http://yangy.org/)\\
 This research introduces the first foundation model for both invasive and non-invasive neural recordings.
 
 </div>
